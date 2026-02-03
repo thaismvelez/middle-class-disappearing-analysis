@@ -72,3 +72,11 @@ The project findings are presented in a slide deck that includes the key visuali
 
 ## Conclusion
 The analysis supports that the American middle class is shifting and adapting, not disappearing. Across income, spending, and wealth indicators, the long-term trend shows resilience, while rising essential costs and inequality help explain why it can feel like decline.
+
+
+## Future Direction
+
+1. **Regional and demographic breakdown:** Slice results by region, household size, and age group, since the meaning and experience of “middle class” varies based on where and how people live.
+2. **Essentials vs non-essentials:** Break spending into categories (housing, healthcare, education vs discretionary) to show where the squeeze is coming from.
+3. **Wealth composition:** Separate net worth into home equity vs stocks vs cash/debt to see what’s driving gains and how stable they are.
+4. **Cohort and life-stage analysis:** Compare outcomes for younger vs older households (e.g., Millennials vs Gen X) to capture differences in affordability and asset-building timing.
