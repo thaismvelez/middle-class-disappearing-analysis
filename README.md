@@ -66,7 +66,7 @@ The project findings are presented in a slide deck that includes the key visuali
 
 ## Key Findings
 1. **Resilience in the Data:** Data shows income, consumption and wealth strength over time.
-2. **Upward Mobility Pipeline:**: As lower-income households build more wealth, more of them can move into the lower end of the middle class, so the middle class grows instead of shrinking.
+2. **Upward Mobility Pipeline:** As lower-income households build more wealth, more of them can move into the lower end of the middle class, so the middle class grows instead of shrinking.
 3. **Cost Pressure vs. Reality:** Higher prices on necessities reduced day-to-day breathing room, fueling the perception that the middle class is fading supporting the idea that perception does not equal disappearance.
 
 
